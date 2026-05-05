@@ -75,31 +75,6 @@ Make sure you have the following:
 
 ---
 
-## 📷 Demo (Optional)
-You can add screenshots here of:
-- Contract deployment
-- Transactions
-- Remix interface
-
----
-
-## 📖 Explanation (For Viva)
-
-This smart contract simulates decentralized energy trading where:
-- Each user has an energy balance
-- Users can transfer energy units to others
-- Blockchain ensures transparency and security
-- No central authority is required
-
----
-
-## ⚠️ Note
-
-- This project is for educational purposes
-- Use test networks (not real Ethereum) to avoid real gas fees
-
----
-
 ## 👩‍💻 Author
 
 Richa Garg
