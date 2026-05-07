@@ -24,8 +24,6 @@ This project contains a Solidity smart contract for a decentralized energy tradi
 
 ### 🧩 Prerequisites
 
-Make sure you have the following:
-
 - A web browser (Chrome recommended)
 - Internet connection
 - MetaMask (optional, for advanced use)
